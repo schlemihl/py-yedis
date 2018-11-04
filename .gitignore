@@ -1,0 +1,9 @@
+*.pyc
+yedis.egg-info
+build/
+dist/
+/.tox
+_build
+.python-version
+.cache
+.eggs
